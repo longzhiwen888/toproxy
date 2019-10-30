@@ -3,3 +3,12 @@
 /dist/
 /doc/_build/
 *.pyc
+# Python:
+*.py[cod]
+*.idea
+*.ini
+*.yml
+*.DS_Store
+cache
+node_modules
+*.log
